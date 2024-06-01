@@ -1,0 +1,136 @@
+[
+    {
+        "customer_information": "Samantha is a passionate bird enthusiast, but she's a bit wary of reptiles. She's unsure about getting a pet snake.",
+        "industry": "Online store specializing in bird feeders and accessories.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Jennifer loves all animals, but she's especially fond of reptiles. She's been considering getting a pet lizard.",
+        "industry": "Online pet supply store that sells a wide range of reptile products.",
+        "email_lists": [
+            "REPTILE LIST"
+        ]
+    },
+    {
+        "customer_information": "Michael is a cat person through and through. He's not particularly interested in other types of pets.",
+        "industry": "Online store that sells high-quality cat toys and accessories.",
+        "email_lists": [
+            "CAT LIST"
+        ]
+    },
+    {
+        "customer_information": "Olivia has always been a dog person, but she's recently become interested in keeping fish as pets.",
+        "industry": "Online store specializing in aquarium supplies and fish care products.",
+        "email_lists": [
+            "DOG LIST",
+            "FISH LIST"
+        ]
+    },
+    {
+        "customer_information": "Emily loves all animals, but she's especially passionate about birds. She's been thinking about getting a pet parrot.",
+        "industry": "Online store that sells a variety of bird supplies and accessories.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Alex is a self-proclaimed \"dog dad\" and loves spending time with his furry friends. He's not as interested in other types of pets.",
+        "industry": "Online store that specializes in high-quality dog toys and accessories.",
+        "email_lists": [
+            "DOG LIST"
+        ]
+    },
+    {
+        "customer_information": "Lily is a bit of a nature enthusiast and loves all kinds of animals, from furry to feathered. She's been thinking about getting a hedgehog.",
+        "industry": "Online store that sells a variety of exotic pet supplies, including those for hedgehogs.",
+        "email_lists": [
+            "EXOTIC PET LIST"
+        ]
+    },
+    {
+        "customer_information": "David is a self-proclaimed \"bird nerd\" and loves learning about all kinds of feathered friends. He's been considering getting a cockatiel.",
+        "industry": "Online store that specializes in bird supplies and accessories, with a focus on exotic bird species.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Hannah is a self-proclaimed \"crazy cat lady\" and loves all things feline. She's been thinking about getting a second cat.",
+        "industry": "Online store that specializes in high-quality cat toys, furniture, and accessories.",
+        "email_lists": [
+            "CAT LIST"
+        ]
+    },
+    {
+        "customer_information": "Jacob is a bit of a reptile enthusiast and has been considering getting a pet snake or lizard. He's done a lot of research on proper care.",
+        "industry": "Online store that specializes in reptile supplies and accessories, catering to a wide range of species.",
+        "email_lists": [
+            "REPTILE LIST"
+        ]
+    },
+    {
+        "customer_information": "Emma is a self-proclaimed \"bird whisperer\" and loves all types of feathered friends. She's been thinking about getting a cockatoo.",
+        "industry": "Online store that specializes in exotic bird supplies and accessories, with a focus on larger parrot species.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Ethan is a bit of a pet collector and loves all kinds of animals, from furry to scaly. He's been considering getting a ferret.",
+        "industry": "Online store that sells a wide variety of exotic pet supplies, including those for ferrets and other small mammals.",
+        "email_lists": [
+            "EXOTIC PET LIST"
+        ]
+    },
+    {
+        "customer_information": "Sophia is a self-proclaimed \"bird nerd\" and loves learning about all types of feathered friends. She's been considering getting a cockatiel.",
+        "industry": "Online store that specializes in bird supplies and accessories, with a focus on small to medium-sized parrots.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Aiden is a self-proclaimed \"dog dad\" and loves spending time with his furry friends. He's not as interested in other types of pets.",
+        "industry": "Online store that specializes in high-quality dog toys, treats, and accessories.",
+        "email_lists": [
+            "DOG LIST"
+        ]
+    },
+    {
+        "customer_information": "Ava is a self-proclaimed \"crazy cat lady\" and loves all things feline. She's been considering getting a third cat.",
+        "industry": "Online store that specializes in high-quality cat furniture, scratching posts, and other cat-themed accessories.",
+        "email_lists": [
+            "CAT LIST"
+        ]
+    },
+    {
+        "customer_information": "Noah is a bit of a nature enthusiast and loves all kinds of animals, from furry to feathered. He's been considering getting a hedgehog.",
+        "industry": "Online store that specializes in exotic pet supplies, including those for hedgehogs and other small mammals.",
+        "email_lists": [
+            "EXOTIC PET LIST"
+        ]
+    },
+    {
+        "customer_information": "Isabella is a self-proclaimed \"reptile enthusiast\" and loves learning about all kinds of scaly creatures. She's been considering getting a pet snake.",
+        "industry": "Online store that specializes in high-quality reptile terrariums, lighting, and other accessories.",
+        "email_lists": [
+            "REPTILE LIST"
+        ]
+    },
+    {
+        "customer_information": "Lucas is a self-proclaimed \"bird enthusiast\" and loves learning about all types of feathered friends. He's been considering getting a cockatiel.",
+        "industry": "Online store that specializes in bird supplies and accessories, catering to a wide range of avian species.",
+        "email_lists": [
+            "PARROT LIST"
+        ]
+    },
+    {
+        "customer_information": "Mia is a self-proclaimed \"dog person\" and loves spending time with her furry companions. She's not as interested in other types of pets.",
+        "industry": "Online store that specializes in high-quality dog beds, leashes, and other dog-themed accessories.",
+        "email_lists": [
+            "DOG LIST"
+        ]
+    }
+]
